@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<article>
+		<media><image><imagedata fileref="./images/Github-Mark.png" format="PNG" /></image></media>
+	<title>Welcome!</title>
+	<section>
+		<para>Here are a few of my projects that I've worked on during my years here at Alfred State. Take a look</para>
+	</section>
+	<media><image><imagedata fileref="./images/portfolio.png" format="JPG" /></image></media>
+	<title>portfolio</title>
+	<section>
+		<para>In this project i build a portfolio website that have background information
+		about my skills, my experience and how to reach me i lean a lot bilding this site about
+		Authantication.</para>
+	</section>
+
+	<media><image><imagedata fileref="./images/summer.png" format="JPG" /></image></media>
+	<title>Summer Activity</title>
+	<section>
+		<para>This site was a summer activity website where i have a lot summer activity and i also
+		have jokes on this site in this site i have the opertunity to demontrate my skill with xml
+		i learn a lot about xml building this site it was a great apportunity.</para>
+	</section>
+
+	<media><image><imagedata fileref="./images/happy.png" format="JPG" /></image></media>
+	<title>Hotdog Weekend</title>
+	<section>
+		<para>This site was made when hotdog weekend was aproching i build it so that people can go 
+		and see the activities that accurd during hotdog weekend. This website was design to help student
+		that does go here and also people that don'd go here to now every event going on.</para>
+	</section>
+</article>
